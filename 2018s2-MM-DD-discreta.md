@@ -12,6 +12,6 @@
 
  N | Nome Completo                              | Usuario GitHub       |
 ---|--------------------------------------------|----------------------|
-01 |                                            |                      |
+01 |Yasmim Vitoria Corrreia De Sousa            |@yasmim13             |
 02 |                                            |                      |
 
