@@ -13,5 +13,5 @@
  N | Nome Completo                              | Usuario GitHub       |
 ---|--------------------------------------------|----------------------|
 01 |Yasmim Vitoria Corrreia De Sousa            |@yasmim13             |
-02 |                                            |                      |
+02 |Juliane Rocha Macedo Coutinho               |@jrmc734              |
 
